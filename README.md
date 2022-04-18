@@ -6,7 +6,6 @@
 
 ## Table of Contents 
 - [Usage](#usage)
-- [Test](#tests)
 - [Acceptance-Criteria](#acceptance-criteria)
 - [Questions](#questions)
 
