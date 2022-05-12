@@ -18,7 +18,7 @@ export default function Main() {
                 <div className="myInfo col-lg-6">
                     <hr />
                     <p>
-                        I am an aspiring web developer enrolled in the UW full stack web developement course. I plan on
+                        I am an aspiring web developer recent graduate from the UW full stack web developement course. I plan on
                         working backend
                         developement
                         and ultimately pursuing software developement. I love learning new skills and creating things

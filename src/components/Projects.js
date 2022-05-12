@@ -1,6 +1,6 @@
 import joinIn from "../assets/images/JoinIn.png";
 import passwordGen from "../assets/images/passwordGen.png";
-import noteApp from "../assets/images/noteTaker.png";
+import Scavenger from "../assets/images/Scavenger.png";
 import bookApp from "../assets/images/bookApp.png";
 import textApp from "../assets/images/textApp.png";
 import bitPage from "../assets/images/bitPage.png";
@@ -37,7 +37,29 @@ export default function Projects() {
             </a>
           </section>
           <section className="col-4">
-            <h4>Password generator!</h4>
+            <h4>A Scavenger Hunt For The Ages</h4>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://a-scavenger-hunt-for-the-ages.herokuapp.com/"
+            >
+              <img
+                className="img-fluid w-50 mx-auto"
+                src={Scavenger}
+                alt="project 2 "
+              />
+            </a>
+            <a
+              className="row col-2 mx-auto"
+              target="_blank"
+              rel="noreferrer"
+              href="https://github.com/Bertokeys1/a-scavenger-hunt-for-the-ages"
+            >
+              github repo
+            </a>
+          </section>
+          <section className="col-4">
+            <h4>Password generator</h4>
             <a
               target="_blank"
               rel="noreferrer"
@@ -54,28 +76,6 @@ export default function Projects() {
               target="_blank"
               rel="noreferrer"
               href="https://github.com/Bertokeys1/Password-generator"
-            >
-              github repo
-            </a>
-          </section>
-          <section className="col-4">
-            <h4>Note taker</h4>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://note-taker2000.herokuapp.com/"
-            >
-              <img
-                className="img-fluid w-50 mx-auto"
-                src={noteApp}
-                alt="project 2 "
-              />
-            </a>
-            <a
-              className="row col-2 mx-auto"
-              target="_blank"
-              rel="noreferrer"
-              href="https://enigmatic-plains-20871.herokuapp.com/"
             >
               github repo
             </a>
